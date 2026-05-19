@@ -1,0 +1,97 @@
+2026-04-29 01:52:14,430 - WARNING - Matplotlib is building the font cache; this may take a moment.
+2026-04-29 01:52:16,200 - INFO - Failed to extract font properties from /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc: Can not load face (locations (loca) table missing; error code 0x90)
+2026-04-29 01:52:16,203 - INFO - Failed to extract font properties from /System/Library/Fonts/SFIndia.ttc: Can not load face (SFNT font table missing; error code 0x8e)
+2026-04-29 01:52:16,204 - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: Could not set the fontsize (invalid pixel size; error code 0x17)
+2026-04-29 01:52:16,205 - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2026-04-29 01:52:16,210 - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: Could not set the fontsize (invalid pixel size; error code 0x17)
+2026-04-29 01:52:16,228 - INFO - generated new fontManager
+2026-04-29 01:52:17,081 - INFO - 🔄 Async predictor started
+2026-04-29 01:52:19,255 - INFO - 🚀 Capture started on en0 with IDS: True
+2026-04-29 01:52:19,708 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:19,708 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:19,708 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:19,708 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::34b6:8fd2
+2026-04-29 01:52:20,029 - INFO - ✅ Benign traffic (62.6% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:20,029 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::34b6:8fd2
+2026-04-29 01:52:20,029 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::34b6:8fd2
+2026-04-29 01:52:20,321 - WARNING - 5 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x151f30860> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2026-04-29 01:52:20,339 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::34b6:8fd2
+2026-04-29 01:52:20,339 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:20,654 - WARNING - 6 out of the last 8 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x151f33d80> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2026-04-29 01:52:20,672 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34b6:8fd2 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:23,097 - INFO - ✅ Benign traffic (28.4% confidence): fe80::42d:c1e0:d2ef:daf -> fe80::e42f:37ff:fea5:e264
+2026-04-29 01:52:23,097 - INFO - ✅ Benign traffic (28.4% confidence): fe80::e42f:37ff:fea5:e264 -> fe80::42d:c1e0:d2ef:daf
+2026-04-29 01:52:24,819 - INFO - ✅ Benign traffic (51.1% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:24,819 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:28,103 - INFO - ✅ Benign traffic (51.2% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:28,103 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:28,103 - INFO - ✅ Benign traffic (62.6% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:28,103 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:29,031 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::d889:3532
+2026-04-29 01:52:29,031 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2606:4700:20::681a:a27
+2026-04-29 01:52:29,031 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2606:4700:20::681a:1b
+2026-04-29 01:52:29,031 - INFO - ✅ Benign traffic (61.7% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a00:1450:4009:c19::bc
+2026-04-29 01:52:29,031 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::d889:3532 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:29,232 - INFO - ✅ Benign traffic (64.2% confidence): 2606:4700:20::681a:1b -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:29,232 - INFO - ✅ Benign traffic (64.2% confidence): 2606:4700:20::681a:a27 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:29,233 - INFO - ✅ Benign traffic (64.2% confidence): 2a00:1450:4009:c19::bc -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:29,233 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::34c8:2e91
+2026-04-29 01:52:29,433 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::34c8:2e91 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:31,482 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:31,482 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:31,482 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:31,482 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:33,273 - INFO - ✅ Benign traffic (28.4% confidence): 2a00:23ee:1078:c422:b85a:1416:56d0:de15 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:33,273 - INFO - ✅ Benign traffic (28.4% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a00:23ee:1078:c422:b85a:1416:56d0:de15
+2026-04-29 01:52:33,940 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:33,940 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:33,940 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:33,940 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:34,145 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:34,145 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:34,715 - INFO - ✅ Benign traffic (51.2% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a00:1450:4009:c0b::5e
+2026-04-29 01:52:34,716 - INFO - ✅ Benign traffic (62.5% confidence): 2a00:1450:4009:c0b::5e -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:34,716 - INFO - ✅ Benign traffic (64.1% confidence): 2a00:1450:4009:c0b::5e -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:34,716 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a00:1450:4009:c0b::5e
+2026-04-29 01:52:34,716 - INFO - ✅ Benign traffic (64.1% confidence): 2a00:1450:4009:c0b::5e -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:36,489 - INFO - ✅ Benign traffic (28.4% confidence): fe80::42d:c1e0:d2ef:daf -> fe80::e42f:37ff:fea5:e264
+2026-04-29 01:52:36,489 - INFO - ✅ Benign traffic (28.4% confidence): fe80::e42f:37ff:fea5:e264 -> fe80::42d:c1e0:d2ef:daf
+2026-04-29 01:52:38,130 - INFO - ✅ Benign traffic (51.2% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:38,131 - INFO - ✅ Benign traffic (62.6% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:38,131 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:38,568 - INFO - ✅ Benign traffic (28.4% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a00:23ee:1078:c422:b85a:1416:56d0:de15
+2026-04-29 01:52:38,568 - INFO - ✅ Benign traffic (28.4% confidence): 2a00:23ee:1078:c422:b85a:1416:56d0:de15 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:38,568 - INFO - ✅ Benign traffic (25.4% confidence): fe80::e42f:37ff:fea5:e264 -> ff02::1
+2026-04-29 01:52:41,262 - INFO - ✅ Benign traffic (28.4% confidence): fe80::e42f:37ff:fea5:e264 -> fe80::42d:c1e0:d2ef:daf
+2026-04-29 01:52:41,262 - INFO - ✅ Benign traffic (28.4% confidence): fe80::42d:c1e0:d2ef:daf -> fe80::e42f:37ff:fea5:e264
+2026-04-29 01:52:44,811 - INFO - ✅ Benign traffic (51.1% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:44,811 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:48,118 - INFO - ✅ Benign traffic (51.2% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:48,118 - INFO - ✅ Benign traffic (64.2% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:48,118 - INFO - ✅ Benign traffic (62.6% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:48,118 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:49,264 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:49,264 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:49,622 - INFO - ✅ Benign traffic (28.4% confidence): fe80::42d:c1e0:d2ef:daf -> fe80::e42f:37ff:fea5:e264
+2026-04-29 01:52:49,622 - INFO - ✅ Benign traffic (28.4% confidence): fe80::e42f:37ff:fea5:e264 -> fe80::42d:c1e0:d2ef:daf
+2026-04-29 01:52:50,042 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2603:1061:14:d7::1
+2026-04-29 01:52:50,042 - INFO - ✅ Benign traffic (64.2% confidence): 2603:1061:14:d7::1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:51,754 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:51,754 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:51,754 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:51,754 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:54,227 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:54,228 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:54,228 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:52:54,228 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:58,118 - INFO - ✅ Benign traffic (51.2% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:52:58,118 - INFO - ✅ Benign traffic (62.6% confidence): 64:ff9b::3438:78f9 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:52:58,118 - INFO - ✅ Benign traffic (51.8% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:53:03,104 - INFO - ✅ Benign traffic (28.4% confidence): fe80::42d:c1e0:d2ef:daf -> fe80::e42f:37ff:fea5:e264
+2026-04-29 01:53:03,104 - INFO - ✅ Benign traffic (28.4% confidence): fe80::e42f:37ff:fea5:e264 -> fe80::42d:c1e0:d2ef:daf
+2026-04-29 01:53:04,312 - INFO - ✅ Benign traffic (51.9% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 2a06:98c1:310b::ac40:9bd1
+2026-04-29 01:53:04,312 - INFO - ✅ Benign traffic (64.2% confidence): 2a06:98c1:310b::ac40:9bd1 -> 2a00:23ee:1078:c422:7c3e:a283:4426:a41a
+2026-04-29 01:53:04,545 - INFO - 🛑 Capture stopped
+2026-04-29 01:53:04,717 - INFO - ✅ Benign traffic (51.1% confidence): 2a00:23ee:1078:c422:7c3e:a283:4426:a41a -> 64:ff9b::3438:78f9
+2026-04-29 01:53:07,743 - INFO - 🛑 Async predictor stopped
+2026-04-29 01:53:07,743 - INFO - 🔴 IDS Application closed
